@@ -1,2 +1,2 @@
 # maui-reproductions
-.NET MAUI Reproductions
+.NET MAUI reproductions
